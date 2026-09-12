@@ -1,0 +1,7 @@
+# Code::Blocks build output
+bin/
+obj/
+
+# Code::Blocks per-user IDE state (not meant to be shared)
+*.depend
+*.layout
